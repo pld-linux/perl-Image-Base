@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Image
-%define	pnam	Base
+%define		pdir	Image
+%define		pnam	Base
 Summary:	Image::Base perl module
 Summary(pl):	Modu³ perla Image::Base
 Name:		perl-Image-Base
