@@ -1,8 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Image
 %define	pnam	Base
-Summary:	Image-Base perl module
-Summary(pl):	Modu³ perla Image-Base
+Summary:	Image::Base perl module
+Summary(pl):	Modu³ perla Image::Base
 Name:		perl-Image-Base
 Version:	1.07
 Release:	1
