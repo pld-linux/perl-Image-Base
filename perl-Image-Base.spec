@@ -6,7 +6,7 @@ Summary(pl):	Modu³ perla Image::Base
 Name:		perl-Image-Base
 Version:	1.07
 Release:	2
-License:	distributable
+License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	49e524c89ccdf197b7b73b148d8e27e6
