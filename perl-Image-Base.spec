@@ -26,7 +26,7 @@ Bazowa klasa do ³adowania, manipulowania i zapisywania obrazków.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
