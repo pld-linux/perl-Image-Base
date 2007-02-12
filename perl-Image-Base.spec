@@ -6,7 +6,7 @@
 %define		pdir	Image
 %define		pnam	Base
 Summary:	Image::Base perl module
-Summary(pl):	Modu≥ perla Image::Base
+Summary(pl.UTF-8):   Modu≈Ç perla Image::Base
 Name:		perl-Image-Base
 Version:	1.07
 Release:	3
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Base class for loading, manipulating and saving images.
 
-%description -l pl
-Bazowa klasa do ≥adowania, manipulowania i zapisywania obrazkÛw.
+%description -l pl.UTF-8
+Bazowa klasa do ≈Çadowania, manipulowania i zapisywania obrazk√≥w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
