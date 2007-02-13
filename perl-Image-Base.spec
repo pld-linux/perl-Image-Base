@@ -6,7 +6,7 @@
 %define		pdir	Image
 %define		pnam	Base
 Summary:	Image::Base perl module
-Summary(pl.UTF-8):   Moduł perla Image::Base
+Summary(pl.UTF-8):	Moduł perla Image::Base
 Name:		perl-Image-Base
 Version:	1.07
 Release:	3
