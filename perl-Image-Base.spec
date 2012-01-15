@@ -8,12 +8,12 @@
 Summary:	Image::Base perl module
 Summary(pl.UTF-8):	Moduł perla Image::Base
 Name:		perl-Image-Base
-Version:	1.07
-Release:	4
+Version:	1.16
+Release:	1
 License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	49e524c89ccdf197b7b73b148d8e27e6
+# Source0-md5:	493dad8c06dcab2a65e5ff717e8da80e
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildArch:	noarch
