@@ -4,7 +4,6 @@
 
 %define		pdir	Image
 %define		pnam	Base
-%include	/usr/lib/rpm/macros.perl
 Summary:	Image::Base perl module
 Summary(pl.UTF-8):	Moduł perla Image::Base
 Name:		perl-Image-Base
